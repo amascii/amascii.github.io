@@ -1,16 +1,13 @@
 ---
 layout: post
 title:  "Haskell Exercises Part 1!"
-date:   2020-02-02 15:14:00 +0900
+date:   2020-02-02 15:9:00 +0900
 categories: haskell
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
 
-`YEAR-MONTH-DAY-title.MARKUP`
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
 Jekyll also offers powerful support for code snippets:
 
@@ -32,7 +29,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 #### Exercise 1 - Evaluation and prefix notation
 Evaluate the following expressions and convert them to the equivalent expression in prefix notation.
 
-```haskell
+{% highlight haskell %}
 -- 1
 2 ^ 4 - 1
 
@@ -60,7 +57,7 @@ Evaluate the following expressions and convert them to the equivalent expression
 -- answer
 (/) ((-) 3 1) ((+) 4 2)
 = 0.33...
-```
+{% endhighlight %}
 
 #### Exercise 2 - Data types
 ```haskell
