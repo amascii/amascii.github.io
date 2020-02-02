@@ -5,31 +5,10 @@ date:   2020-02-02 15:9:00 +0900
 categories: haskell
 ---
 
-
-
-After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
-
-
-#### Exercise 1 - Evaluation and prefix notation
+### Exercise 1 - Evaluation and prefix notation
 Evaluate the following expressions and convert them to the equivalent expression in prefix notation.
 
-{% highlight haskell %}
+```haskell
 -- 1
 2 ^ 4 - 1
 
@@ -57,9 +36,9 @@ Evaluate the following expressions and convert them to the equivalent expression
 -- answer
 (/) ((-) 3 1) ((+) 4 2)
 = 0.33...
-{% endhighlight %}
+```
 
-#### Exercise 2 - Data types
+### Exercise 2 - Data types
 ```haskell
 --answer
 rate = 120
@@ -74,7 +53,7 @@ result = rate * 3.40
 > result :: Float
 ```
 
-#### Exercise 3 - Scope
+### Exercise 3 - Scope
 Evaluate and find x.
 
 ```haskell
@@ -107,7 +86,7 @@ x = a + let a = 2 in a + 1
 = 4
 ```
 
-#### Exercise 4 - Functions
+### Exercise 4 - Functions
 Evaluate the following expressions.
 
 ```haskell
@@ -140,7 +119,7 @@ f g = \x y -> 1 + g x y
 = 4
 ```
 
-#### Exercise 5 - Currying
+### Exercise 5 - Currying
 Evaluate and answer the questions.
 
 1.
@@ -184,7 +163,7 @@ r 3
 = 0
 ```
 
-#### Exercise 6 - Contracts
+### Exercise 6 - Contracts
 Give a possible signature for the following functions.
 ```haskell
 -- 1
@@ -200,7 +179,7 @@ g x y = x <= y
 g :: (Ord a) => a -> a -> Bool
 ```
 
-#### Exercise 7 - Lists
+### Exercise 7 - Lists
 Evaluate the following expressions.
 ```haskell
 1:[]            -- 1 [1]
@@ -212,13 +191,13 @@ Evaluate the following expressions.
 []:[]:[]        -- 7 [[],[]]
 ```
 
-#### Exercise 8 - Lists and signatures
+### Exercise 8 - Lists and signatures
 Write the signature of the list accessor function `tail`.
 ```haskell
 tail :: [a] -> [a]
 ```
 
-#### Exercise 9 - Tuples
+### Exercise 9 - Tuples
 Evaluate the following expressions.
 ```haskell
 1:[2,3]           -- 1 [1,2,3] 
@@ -230,13 +209,13 @@ Evaluate the following expressions.
 ([1,2],[True])    -- 7 ([1,2],[True]) (anything goes in tuples)
 ```
 
-#### Exercise 10 - Tuple and signatures
+### Exercise 10 - Tuple and signatures
 Write the signature of the tuple accessor function `snd`.
 ```haskell
 snd :: (a, b) -> b
 ```
 
-## Report
+### Report
 ```haskell
 [1,2,3] -> [[1,2,3], [1,3,2], ...]
 perm
