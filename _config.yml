@@ -20,10 +20,17 @@ github_username:  amascii
 theme: minima
 plugins:
   - jekyll-feed
+#  - jekyll-remote-theme
+
+#remote_theme: jekyll/minima
+#minima:
+#    skin: dark
 
 # Collections
+collections_dir: collections
 collections:
     books:
+        sort-by: date
         output: true
 
 
