@@ -4,7 +4,7 @@ title: The Magician's Nephew
 author: C.S. Lewis
 month: February
 year: 2020
-comments: Best *Narnia* book tbh
+comments: Best Narnia book tbh
 rating: 10
 ---
 
