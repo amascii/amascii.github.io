@@ -7,7 +7,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Armando's Attractive Attic
+title: Armando's Amazingly Attractive Attic
 email: manguin98(at)gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     A sort of personal blog.
@@ -15,6 +15,7 @@ baseurl: "" #
 url: "" #
 twitter_username: dkfmakseh
 github_username:  amascii
+
 
 # Build settings
 theme: minima
@@ -27,7 +28,6 @@ plugins:
 #    skin: dark
 
 # Collections
-collections_dir: collections
 collections:
     books:
         sort-by: date
