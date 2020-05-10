@@ -1,14 +1,16 @@
 ---
 layout: post
-title:  "Haskell Exercises Part 1!"
+title:  "Haskell Exercises I"
 date:   2020-02-02 15:9:00 +0900
-categories: haskell
+categories: programming
+tags: haskell exercises problems
+
 ---
 
-### Exercise 1 - Evaluation and prefix notation
-Evaluate the following expressions and convert them to the equivalent expression in prefix notation.
-
+###  1 - Evaluation and prefix notation
 ```haskell
+-- evaluate and convert to prefix notation
+
 -- 1
 2 ^ 4 - 1
 
@@ -38,7 +40,7 @@ Evaluate the following expressions and convert them to the equivalent expression
 = 0.33...
 ```
 
-### Exercise 2 - Data types
+###  2 - Data types
 ```haskell
 --answer
 rate = 120
@@ -53,10 +55,10 @@ result = rate * 3.40
 > result :: Float
 ```
 
-### Exercise 3 - Scope
-Evaluate and find x.
-
+###  3 - Scope
 ```haskell
+-- evaluate for x
+
 -- 1
 a = 1
 x = a + 1
@@ -86,7 +88,7 @@ x = a + let a = 2 in a + 1
 = 4
 ```
 
-### Exercise 4 - Functions
+###  4 - Functions
 Evaluate the following expressions.
 
 ```haskell
@@ -119,7 +121,7 @@ f g = \x y -> 1 + g x y
 = 4
 ```
 
-### Exercise 5 - Currying
+###  5 - Currying
 Evaluate and answer the questions.
 
 1.
@@ -163,9 +165,10 @@ r 3
 = 0
 ```
 
-### Exercise 6 - Contracts
-Give a possible signature for the following functions.
+###  6 - Contracts
 ```haskell
+-- find a signature
+
 -- 1
 f x y = x == y
 
@@ -179,9 +182,10 @@ g x y = x <= y
 g :: (Ord a) => a -> a -> Bool
 ```
 
-### Exercise 7 - Lists
-Evaluate the following expressions.
+###  7 - Lists
 ```haskell
+-- evaluate
+
 1:[]            -- 1 [1]
 1:[True]        -- 2 error
 [1] : [[2],[2]] -- 3 [[1],[2],[2]]
@@ -191,15 +195,17 @@ Evaluate the following expressions.
 []:[]:[]        -- 7 [[],[]]
 ```
 
-### Exercise 8 - Lists and signatures
-Write the signature of the list accessor function `tail`.
+###  8 - Lists and signatures
 ```haskell
+-- signature of tail
+
 tail :: [a] -> [a]
 ```
 
-### Exercise 9 - Tuples
-Evaluate the following expressions.
+###  9 - Tuples
 ```haskell
+-- evaluate
+
 1:[2,3]           -- 1 [1,2,3] 
 1:(2,3)           -- 2 error (tuples are immutable)
 (,) 1 2           -- 3 (1,2)
@@ -209,9 +215,10 @@ Evaluate the following expressions.
 ([1,2],[True])    -- 7 ([1,2],[True]) (anything goes in tuples)
 ```
 
-### Exercise 10 - Tuple and signatures
-Write the signature of the tuple accessor function `snd`.
+###  10 - Tuple and signatures
 ```haskell
+-- signature of snd
+
 snd :: (a, b) -> b
 ```
 
