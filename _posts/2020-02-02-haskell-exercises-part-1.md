@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Haskell Exercises I"
-date:   2020-02-02 15:9:00 +0900
+date:   2020-02-02 15:00:00 +0900
 categories: programming
 tags: haskell exercises problems
 
