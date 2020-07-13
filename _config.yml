@@ -13,7 +13,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     A sort of personal blog.
 baseurl: "" #
 url: "" #
-twitter_username: dkfmakseh
+# twitter_username: dkfmakseh
 github_username:  amascii
 
 
