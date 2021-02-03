@@ -8,7 +8,7 @@ permalink: /projects/
 |Name|Description|
 |---|---|
 [chord-quiz](#chord-quiz)| A musical quiz app written in React.
-[extinction]($extinction)| Species gone extinct in your lifetime, written in React.
+[extinct-io](#extinct-io)| Species gone extinct in your lifetime, written in React.
 [todo-list](#todo-list)| A simple, yet responsive todo app.
 [bibliotik.py](#bibliotik)| An e-book downloading tool.
 [trim](#trim)| An `ffmpeg` interface for video cutting.
@@ -16,17 +16,17 @@ permalink: /projects/
 <a name="chord-quiz"/>
 
 ## chord-quiz
-Go [here](https://amascii.github.io/chord-quiz) to see it in action :).
+Go [here](https://amascii.github.io/chord-quiz/) to see it in action :).
 
-<a name="extinction"/>
+<a name="extinct-io"/>
 
-## extinction
-Go [here](https://amascii.github.io/extinction) to see it in action :).
+## extinct-io 
+Go [here](https://amascii.github.io/extinct.io/) to see it in action :).
 
 <a name="todo-list">
 
 ## todo-list
-Go [here](https://amascii.github.io/todo-list) to  see it in action :).
+Go [here](https://amascii.github.io/todo-list/) to  see it in action :).
 
 <a name="bibliotik">
 
