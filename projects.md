@@ -21,7 +21,7 @@ Go [here](https://amascii.github.io/chord-quiz/) to see it in action :).
 <a name="extinct-io"/>
 
 ## extinct-io 
-Go [here](https://amascii.github.io/extinct.io/) to see it in action :).
+Go [here](https://amascii.github.io/extinct-io/) to see it in action :).
 
 <a name="todo-list">
 
