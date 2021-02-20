@@ -16,17 +16,23 @@ permalink: /projects/
 <a name="chord-quiz"/>
 
 ## chord-quiz
-Go [here](https://amascii.github.io/chord-quiz/) to see it in action :).
+Do you want to be better at recognizing guitar chords? Then this is the app for you!
+Live [here](https://amascii.github.io/chord-quiz/).
+
+Note: I have not recorded minor chords yet, only major chords.
 
 <a name="extinct-io"/>
 
 ## extinct-io 
-Go [here](https://amascii.github.io/extinct-io/) to see it in action :).
+A fun app to check how many species have gone extinct since you were born.
+I use very simple function so it is not accurate; don't take it seriously.
+Live [here](https://amascii.github.io/extinct-io/).
 
 <a name="todo-list">
 
 ## todo-list
-Go [here](https://amascii.github.io/todo-list/) to  see it in action :).
+A simple todo app. You can add, delete and complete todos.
+Live [here](https://amascii.github.io/todo-list/).
 
 <a name="bibliotik">
 
