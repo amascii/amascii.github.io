@@ -25,7 +25,7 @@ Note: I have not recorded minor chords yet, only major chords.
 
 ## extinct-io 
 A fun app to check how many species have gone extinct since you were born.
-I use very simple function so it is not accurate; don't take it seriously.
+I use a very simple function so it is not accurate; don't take it seriously.
 Live [here](https://amascii.github.io/extinct-io/).
 
 <a name="todo-list">
