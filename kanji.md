@@ -5,6 +5,7 @@ permalink: /kanji/
 ---
 
 Kanji progress goes here
+- Done with RTK 1
 
 <p>
 <span style="color:orange;">
