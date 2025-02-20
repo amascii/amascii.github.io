@@ -18,14 +18,14 @@ github_username:  amascii
 
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
-#  - jekyll-remote-theme
+  - jekyll-remote-theme
 
-#remote_theme: jekyll/minima
-#minima:
-#    skin: dark
+remote_theme: jekyll/minima
+minima:
+    skin: dark
 
 # Collections
 collections:
