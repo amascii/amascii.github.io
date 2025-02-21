@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "American Shortcake Story"
-author: bestscammer5 
+author: Armando
 categories: food
 tags: strawberry-shortcake orange-chicken dine-in restaurant
 ---
