@@ -51,11 +51,14 @@ There *were* dandelions and other flowers hanging from the ceiling and walls, bu
 What is still imprinted in my memory is the table: it was grimy and sticky af.
 I'd been working on my laptop for a while and at some point I tried to reposition it but it wouldn't budge.
 I had to pull it up and when I did it made a sickly peeling sound, like that of a sticker.
+My partner's book cover got torn a bit lmao.
 The fact that the AC was not working that well didn't help much.
 It was a really hot day, and the ladies adjacent to us were pretty vocal about it.
 
-Unfortunately, I didn't take any photos of the interior, but here's a glimpse of the table.
-![Sticky table](/assets/sticky-table.jpg){: width="500" .centered}
+Unfortunately, I didn't take any photos of the interior, but here's a glimpse of the table and the torn book.
+
+![Dandelion Cafe sticky table](/assets/dandelion-cafe-sticky-table.jpg){: width="500" .centered}
+![Dandelion Cafe torn book](/assets/dandelion-cafe-torn-book.jpg){: width="500" .centered}
 
 ### The Galleria
 Before jumping into the Galleria, a small rant about strip "malls"[^3].
@@ -143,7 +146,7 @@ There are a couple of these bakeries in Houston, and one is coming soon to San A
 ### Microcenter
 Hot take: Best Buy is better.
 I don't know about prices or selection, probably Microcenter wins in those departments.
-But the shopping experience and interior is much better at a Best Buya.
+But the shopping experience and interior is much better at a Best Buy.
 Microcenter just feels shabby, run-down.
 The checkout is like a Marshalls or Ross or one of those thrift shops: a single line that snakes around stands, sending the first person to the next available cashier.
 One good thing I can say is the staff looked knowledgeable and friendly.
